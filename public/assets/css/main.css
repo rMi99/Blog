@@ -33,6 +33,11 @@ a{
   font-size: 100px;
   font-family: 'Butler Stencil';
 }
+.txt{
+  color: #fff;
+  font-size: 100px;
+  font-family: 'Butler Stencil';
+}
 
 .preloader .progress{
   background: #191B1D;

@@ -61,6 +61,7 @@ function preloader(){
 
   var progressBar = $(".progress");
   var percentageText = $(".percentage");
+  var percentageText = $(".txt");
 
   var tl = gsap.timeline({
     onComplete: function() {
