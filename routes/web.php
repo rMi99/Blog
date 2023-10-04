@@ -16,4 +16,5 @@ Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
 
 Route::get('/posts', [PostController::class,'index']);
+Route::post('/login', [PostController::class,'index']);
 // Route::resource('posts', PostController::class);

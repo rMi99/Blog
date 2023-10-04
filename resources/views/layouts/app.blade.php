@@ -63,7 +63,7 @@
             <div class="header-container">
                 <div class="row px-0 gx-0">
                     <div class="col-xl-2 col-md-6 col-6">
-                        <a href="index.html" class="logo"><img src="assets/images/logo.png"
+                        <a href="/" class="logo"><img src="assets/images/logo.png"
                          alt="logo"></a>
                     </div>
                     <div class="col-xl-10 col-md-6 col-6">
@@ -75,6 +75,9 @@
                 </div>
             </div>
         </header>
+
+
+
 
             <!-- OVERLAY MENU -->
             <div class="overlay-menu">
